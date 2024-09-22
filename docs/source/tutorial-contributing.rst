@@ -338,6 +338,7 @@ List of tutorial participants
 - Divya Sundar (University of California, Berkeley)
 - Lauren Howard (Franklin & Marshall College)
 - Annie Schwartzstein (University of California, Santa Cruz)
+- Gabby Pesantes (Montclair State University)
 Checking for and creating issues on Github
 -------------------------------------------
 
